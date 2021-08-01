@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Had to downgrade build tools version to 30.0.0
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
